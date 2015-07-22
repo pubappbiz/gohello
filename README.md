@@ -1,0 +1,2 @@
+# gohello
+Initialize project.
